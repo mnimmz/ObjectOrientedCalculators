@@ -1,0 +1,32 @@
+package evenodd;
+
+import java.util.Scanner;
+
+public class WhichIsIt {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		
+		ChooseEorO resultsmethod = new ChooseEorO();
+		
+		Scanner randomclass = new Scanner (System.in);
+		int x = randomclass.nextInt();		
+			
+		if (x % 2 == 0){
+			
+			resultsmethod.evenanswer();
+		}
+		
+		else {
+			resultsmethod.oddanswer();
+		}
+		
+			
+			
+		}
+	
+		
+	}
+

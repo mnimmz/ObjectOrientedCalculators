@@ -1,0 +1,17 @@
+package evenodd;
+
+public class WhichIsIt {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		ChooseEorO resultsmethod = new ChooseEorO();
+		
+		if (x % 2 = 0){
+			
+			resultsmethod.evenanswer();
+		}
+		
+	}
+
+}

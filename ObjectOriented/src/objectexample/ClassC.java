@@ -1,0 +1,18 @@
+package objectexample;
+
+public class ClassC {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	public void subtractandadd(){
+		System.out.println("subtract and add method");
+	}
+	
+	public void divideandmultiply(){
+		System.out.println("divide and multiple method");
+	}
+
+}

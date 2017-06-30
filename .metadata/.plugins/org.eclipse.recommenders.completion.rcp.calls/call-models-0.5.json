@@ -1,0 +1,27 @@
+{
+  "C:\\Users\\gmb_1\\Desktop\\TK2\\Day 6\\ObjectOriented\\src": {
+    "location": "C:\\Users\\gmb_1\\Desktop\\TK2\\Day 6\\ObjectOriented\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\gmb_1\\Desktop\\TK2\\Day 6\\ObjectOriented\\src\u0027. Skipped."
+  },
+  "C:\\Program Files\\Java\\jre1.8.0_131\\lib\\rt.jar": {
+    "location": "C:\\Program Files\\Java\\jre1.8.0_131\\lib\\rt.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Program Files\\Java\\jre1.8.0_131\\lib\\rt.jar\u0027. Neither fingerprint \u002792a57fbe5aca13ecd12fc904baf0dbdd0fff0b77\u0027 nor symbolic name \u0027jre\u0027 are known."
+  },
+  "C:\\Users\\gmb_1\\Desktop\\TK2\\Day 6\\CalculatorApplicationObjects\\src": {
+    "location": "C:\\Users\\gmb_1\\Desktop\\TK2\\Day 6\\CalculatorApplicationObjects\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\gmb_1\\Desktop\\TK2\\Day 6\\CalculatorApplicationObjects\\src\u0027. Skipped."
+  },
+  "C:\\Users\\gmb_1\\Desktop\\TK2\\Day 6\\EvenOrOddChecker\\src": {
+    "location": "C:\\Users\\gmb_1\\Desktop\\TK2\\Day 6\\EvenOrOddChecker\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\gmb_1\\Desktop\\TK2\\Day 6\\EvenOrOddChecker\\src\u0027. Skipped."
+  },
+  "C:\\Users\\gmb_1\\Desktop\\TK2\\Day 6\\TipCalculatorWithObjects\\src": {
+    "location": "C:\\Users\\gmb_1\\Desktop\\TK2\\Day 6\\TipCalculatorWithObjects\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\gmb_1\\Desktop\\TK2\\Day 6\\TipCalculatorWithObjects\\src\u0027. Skipped."
+  }
+}

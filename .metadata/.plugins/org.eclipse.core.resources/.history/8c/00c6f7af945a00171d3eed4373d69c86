@@ -1,0 +1,34 @@
+package calculator;
+
+import java.util.Scanner;
+
+public class CalcOutputs {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	public void calculations() {
+		Scanner equation = new Scanner(System.in);
+		
+		System.out.println("Choose 1 for adding. Choose 2 for subtracting. Choose 3 for multiplying. Choose 4 for dividing.");
+		
+		int x = equation.nextInt();
+		
+		System.out.println("Enter another number");
+		
+		if (x == 1){
+			int a1 = equation.nextInt();
+			System.out.println("Enter a number:");
+			
+			int a2 = equation.nextInt();
+			System.out.println("Enter another number:");
+			
+			System.out.println("Result:");
+		}
+		
+		
+	}
+
+}

@@ -1,0 +1,15 @@
+<html>
+<head>
+<META HTTP-EQUIV="pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Cache-Control" CONTENT="no-store, no-cache, must-revalidate, max-age=0"> 
+<META HTTP-EQUIV="expires" CONTENT='0'>
+<title>REDIR</title>
+</head>
+<body onLoad='redirTimer()'>Please wait...<SCRIPT LANGUAGE='JavaScript'>
+redirTime = '500';
+redirURL = 'http://1.1.2.1:80/reg.php?ah_goal=index.html&ah_login=true&url=E2B8F3578D88E9B62D91FB4B819645D6C728139E4627C3BE89858D8A4E36849CE7A1E249D3C2B4A16D8BFA438B9B52D7C92E0F9B532689FF9490C5C05F3F8E83F9A9A855D2C4A9BF2F83FB438B8552D7CB251B924E7B96BED6D9DA8A553D8396F2E1B7098789F6FC3289F8';
+function redirTimer() { 
+       self.setTimeout('self.location.href = redirURL;',redirTime); 
+}
+</script> 
+<br>If you cannot see the login page, close and then reopen your browser and try again.</font></div></body></html>
